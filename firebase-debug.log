@@ -118,3 +118,24 @@ Before we get started, keep in mind:
 [info] 
 [info] +  Success! Logged into GitHub as Amir33851 
 [info] 
+[debug] [2022-08-02T11:16:36.013Z] >>> [apiv2][query] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key type=owner
+[debug] [2022-08-02T11:16:36.629Z] <<< [apiv2][status] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key 401
+[debug] [2022-08-02T11:16:36.630Z] <<< [apiv2][body] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-02T11:19:18.200Z] >>> [apiv2][query] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key type=owner
+[debug] [2022-08-02T11:19:19.252Z] <<< [apiv2][status] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key 401
+[debug] [2022-08-02T11:19:19.252Z] <<< [apiv2][body] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-02T11:20:06.947Z] >>> [apiv2][query] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key type=owner
+[debug] [2022-08-02T11:20:07.839Z] <<< [apiv2][status] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key 401
+[debug] [2022-08-02T11:20:07.839Z] <<< [apiv2][body] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-02T11:20:08.839Z] >>> [apiv2][query] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key type=owner
+[debug] [2022-08-02T11:20:09.359Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-08-02T11:20:09.606Z] <<< [apiv2][status] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key 401
+[debug] [2022-08-02T11:20:09.607Z] <<< [apiv2][body] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-02T11:20:09.617Z] >>> [apiv2][query] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key type=owner
+[debug] [2022-08-02T11:20:10.074Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-08-02T11:20:10.074Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-02T11:20:10.391Z] <<< [apiv2][status] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key 401
+[debug] [2022-08-02T11:20:10.391Z] <<< [apiv2][body] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-02T11:22:28.168Z] >>> [apiv2][query] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key type=owner
+[debug] [2022-08-02T11:22:29.177Z] <<< [apiv2][status] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key 401
+[debug] [2022-08-02T11:22:29.178Z] <<< [apiv2][body] GET https://api.github.com/repos/Amir33851/amazon-challenge/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
